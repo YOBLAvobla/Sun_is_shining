@@ -37,19 +37,16 @@ body {
   }
 }
 .orange-button {
-    background-color: #f08;
-    color: white;
-    border: none;
+    background-color: #ffffff;
+    color: black;
+    border: ff8a00;
     border-radius: 5px;
-    padding: 10px 20px;
+    padding: 5px 20px;
     cursor: pointer;
     font-size: 16px;
     position: relative;
 }
 
-.orange-button:hover {
-    background-color: #ff7043;
-}
 
 
 .table-header1 {
